@@ -16,7 +16,7 @@
 title: Supriyo Pal
 email: supriyo.blogs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my daily diary , project documentation and tecch blogs .
+  This is my daily diary , project documentation and tech blogs .
 # the subpath of your site, e.g. /blog
 url: "https://web-diary.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
