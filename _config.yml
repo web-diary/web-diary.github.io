@@ -18,7 +18,7 @@ email: supriyo.blogs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my daily diary , project documentation and tecch blogs .
 # the subpath of your site, e.g. /blog
-url: "https://supriyoiiest.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://web-diary.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: Supriyo_iiest
 github_username:  supriyoiiest
