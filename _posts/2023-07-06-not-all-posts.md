@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "AI Everywhere"
 layout: post
 author: "Supriyo Pal"
 categories: Blog
 ---
 
-AI Everywhere
+
 
 <!-- excerpt_separator -->
 
