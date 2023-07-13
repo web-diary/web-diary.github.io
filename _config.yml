@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my daily diary , project documentation and tech blogs .
 # the subpath of your site, e.g. /blog
 url: "https://web-diary.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: https://avatars.githubusercontent.com/u/139430727?s=400&u=27618a07d9bf465c9fb337b98f8c417d8b9f412a&v=4
+icon: "https://avatars.githubusercontent.com/u/139430727?s=400&u=27618a07d9bf465c9fb337b98f8c417d8b9f412a&v=4"
 twitter_username: Supriyo_iiest
 github_username:  supriyoiiest
 
